@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Domingues GitHub stats](https://github-readme-stats.vercel.app/api?username=thdomingues-dev)](https://github.com/thdomingues-dev/github-readme-stats)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thdomingues-dev)](https://github.com/thdomingues-dev/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thdomingues-dev&layout=compact)](https://github.com/thdomingues-dev/github-readme-stats)
 
 <!--
 **thdomingues-dev/thdomingues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
