@@ -12,9 +12,13 @@ I'm from Brazil :brazil: and currently working as a software engineer (Front-end
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdomingues-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### :earth_americas: Contact
+<br />
+
+<div align="center">
+  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-domingues/)](https://www.linkedin.com/in/thales-domingues/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:thdomingues.dev@gmail.com)
+</div>
 
 <!--
 **thdomingues-dev/thdomingues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
