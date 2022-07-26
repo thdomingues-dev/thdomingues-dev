@@ -9,15 +9,19 @@ In my free time I go to the gym and keep up with financial market 💰.
 
 ### ⚡ Git status
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thdomingues-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=thdomingues-dev&theme=dark&hide_border=true&background=DD272700&fire=16DD00&ring=DD7008&currStreakLabel=DD7008&currStreakNum=16DD00&sideNums=16DD00&sideLabels=DD7008&stroke=DDDDDD22" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdomingues-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br />
-
-<div align="center">
-  
+<!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-domingues/)](https://www.linkedin.com/in/thales-domingues/)
+-->
+
+<div align="center" display="flex">
+  
+_Would find me(?)_
+<br />
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:thdomingues.dev@gmail.com)
 </div>
 
