@@ -1,7 +1,7 @@
 ## Hello, I'm Domingues! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thdomingues-dev/thdomingues-dev)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=26&color=1EF718&center=true&width=850&height=100&lines=Hello%2C+friend!+%3DD;My+name+is+Thales+a.k.a.+%22Domingues%22.;+Im+from+Brazil+and+currently+working+as+Software+Engineer+(Front-end).+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=26&color=1EF718&center=true&width=850&height=60&lines=Hello%2C+friend!+%3DD;My+name+is+Thales+a.k.a.+%22Domingues%22.;+Im+from+Brazil+and+currently+working+as+Software+Engineer+(Front-end).+)](https://git.io/typing-svg)
 </div>
 
 ### :cloud: Skills
@@ -20,7 +20,7 @@
 
 <div align="center" display="flex">
   
-_Would find me(?)_
+_Contact me_
 <br />
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:thdomingues.dev@gmail.com)
 </div>
