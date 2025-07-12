@@ -1,8 +1,4 @@
-## Hello, I'm Domingues! 👋 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=26&color=1EF718&center=true&width=850&height=60&lines=Hello%2C+friend!+%3DD;My+name+is+Thales+a.k.a.+%22Domingues%22.;+Im+from+Brazil+and+currently+working+as+Software+Engineer+(Front-end).+)](https://git.io/typing-svg)
-</div>
+## Hello, I'm Thales! 👋 
 
 ### :cloud: Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
