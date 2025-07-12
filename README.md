@@ -10,7 +10,7 @@
 ### ⚡ Git status
 <div align="center">
 <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=thdomingues-dev&theme=transparent&fire=16DD00&ring=DD7008&currStreakLabel=DD7008&currStreakNum=16DD00&sideNums=16DD00&sideLabels=DD7008&stroke=DDDDDD22" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdomingues-dev&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdomingues-dev&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <br />
